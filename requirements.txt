@@ -1,0 +1,9 @@
+openai>=1.35.0
+sentence-transformers>=3.0.0
+rank-bm25>=0.2.2
+numpy>=1.26
+scikit-learn>=1.5
+pydantic>=2.7
+python-dateutil>=2.9
+tqdm>=4.66
+dotenv
